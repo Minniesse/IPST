@@ -1,0 +1,257 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.9.0",
+  "name": "thai_sample",
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "บทที่ 1: ปัญญาประดิษฐ์คืออะไร",
+      "text": "บทที่ 1: ปัญญาประดิษฐ์คืออะไร",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "paragraph",
+      "prov": [],
+      "orig": "ปัญญาประดิษฐ์ (Artificial Intelligence หรือ AI) คือสาขาวิชาทางวิทยาการคอมพิวเตอร์ ที่มุ่งเน้นการสร้างระบบที่สามารถทำงานที่ต้องอาศัยความฉลาดของมนุษย์ เช่น การเรียนรู้ การตัดสินใจ การรู้จำภาพ การเข้าใจภาษา และการแก้ปัญหา",
+      "text": "ปัญญาประดิษฐ์ (Artificial Intelligence หรือ AI) คือสาขาวิชาทางวิทยาการคอมพิวเตอร์ ที่มุ่งเน้นการสร้างระบบที่สามารถทำงานที่ต้องอาศัยความฉลาดของมนุษย์ เช่น การเรียนรู้ การตัดสินใจ การรู้จำภาพ การเข้าใจภาษา และการแก้ปัญหา"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "paragraph",
+      "prov": [],
+      "orig": "AI สามารถแบ่งออกเป็นหลายประเภท ได้แก่:\n1. AI แบบแคบ (Narrow AI) - ออกแบบมาเพื่อทำงานเฉพาะอย่าง เช่น การแปลภาษา\n2. AI แบบทั่วไป (General AI) - สามารถทำงานได้หลากหลายเหมือนมนุษย์\n3. AI ขั้นสูง (Super AI) - มีความสามารถเหนือกว่ามนุษย์ในทุกด้าน",
+      "text": "AI สามารถแบ่งออกเป็นหลายประเภท ได้แก่:\n1. AI แบบแคบ (Narrow AI) - ออกแบบมาเพื่อทำงานเฉพาะอย่าง เช่น การแปลภาษา\n2. AI แบบทั่วไป (General AI) - สามารถทำงานได้หลากหลายเหมือนมนุษย์\n3. AI ขั้นสูง (Super AI) - มีความสามารถเหนือกว่ามนุษย์ในทุกด้าน"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "บทที่ 2: การเรียนรู้ของเครื่อง",
+      "text": "บทที่ 2: การเรียนรู้ของเครื่อง",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "paragraph",
+      "prov": [],
+      "orig": "การเรียนรู้ของเครื่อง (Machine Learning) เป็นสาขาย่อยของปัญญาประดิษฐ์ ที่ทำให้คอมพิวเตอร์สามารถเรียนรู้จากข้อมูลได้โดยไม่ต้องเขียนโปรแกรมอย่างชัดเจน",
+      "text": "การเรียนรู้ของเครื่อง (Machine Learning) เป็นสาขาย่อยของปัญญาประดิษฐ์ ที่ทำให้คอมพิวเตอร์สามารถเรียนรู้จากข้อมูลได้โดยไม่ต้องเขียนโปรแกรมอย่างชัดเจน"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "paragraph",
+      "prov": [],
+      "orig": "ประเภทหลักของการเรียนรู้ของเครื่อง:\n- การเรียนรู้แบบมีผู้สอน (Supervised Learning) - เรียนรู้จากข้อมูลที่มีคำตอบ\n- การเรียนรู้แบบไม่มีผู้สอน (Unsupervised Learning) - หาโครงสร้างจากข้อมูลเอง\n- การเรียนรู้แบบเสริมกำลัง (Reinforcement Learning) - เรียนรู้จากรางวัลและบทลงโทษ",
+      "text": "ประเภทหลักของการเรียนรู้ของเครื่อง:\n- การเรียนรู้แบบมีผู้สอน (Supervised Learning) - เรียนรู้จากข้อมูลที่มีคำตอบ\n- การเรียนรู้แบบไม่มีผู้สอน (Unsupervised Learning) - หาโครงสร้างจากข้อมูลเอง\n- การเรียนรู้แบบเสริมกำลัง (Reinforcement Learning) - เรียนรู้จากรางวัลและบทลงโทษ"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "paragraph",
+      "prov": [],
+      "orig": "ตัวอย่างการใช้งาน Machine Learning ในชีวิตประจำวัน ได้แก่ ระบบแนะนำสินค้า ระบบกรองอีเมลขยะ การรู้จำใบหน้า ผู้ช่วยเสียง และรถยนต์ขับเคลื่อนอัตโนมัติ",
+      "text": "ตัวอย่างการใช้งาน Machine Learning ในชีวิตประจำวัน ได้แก่ ระบบแนะนำสินค้า ระบบกรองอีเมลขยะ การรู้จำใบหน้า ผู้ช่วยเสียง และรถยนต์ขับเคลื่อนอัตโนมัติ"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "บทที่ 3: การเรียนรู้เชิงลึก",
+      "text": "บทที่ 3: การเรียนรู้เชิงลึก",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "paragraph",
+      "prov": [],
+      "orig": "การเรียนรู้เชิงลึก (Deep Learning) เป็นเทคนิคขั้นสูงของ Machine Learning ที่ใช้โครงข่ายประสาทเทียม (Neural Networks) หลายชั้นในการเรียนรู้",
+      "text": "การเรียนรู้เชิงลึก (Deep Learning) เป็นเทคนิคขั้นสูงของ Machine Learning ที่ใช้โครงข่ายประสาทเทียม (Neural Networks) หลายชั้นในการเรียนรู้"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "paragraph",
+      "prov": [],
+      "orig": "โครงข่ายประสาทเทียมประกอบด้วย:\n- ชั้นรับข้อมูล (Input Layer) - รับข้อมูลดิบเข้าสู่ระบบ\n- ชั้นซ่อน (Hidden Layers) - ประมวลผลและสกัดคุณลักษณะ\n- ชั้นผลลัพธ์ (Output Layer) - ให้คำตอบหรือการทำนาย",
+      "text": "โครงข่ายประสาทเทียมประกอบด้วย:\n- ชั้นรับข้อมูล (Input Layer) - รับข้อมูลดิบเข้าสู่ระบบ\n- ชั้นซ่อน (Hidden Layers) - ประมวลผลและสกัดคุณลักษณะ\n- ชั้นผลลัพธ์ (Output Layer) - ให้คำตอบหรือการทำนาย"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "paragraph",
+      "prov": [],
+      "orig": "สถาปัตยกรรมที่สำคัญ:\n1. CNN (Convolutional Neural Network) - เหมาะสำหรับงานรูปภาพ\n2. RNN (Recurrent Neural Network) - เหมาะสำหรับข้อมูลลำดับ\n3. Transformer - สถาปัตยกรรมที่ใช้ใน GPT, BERT และโมเดลภาษาขนาดใหญ่",
+      "text": "สถาปัตยกรรมที่สำคัญ:\n1. CNN (Convolutional Neural Network) - เหมาะสำหรับงานรูปภาพ\n2. RNN (Recurrent Neural Network) - เหมาะสำหรับข้อมูลลำดับ\n3. Transformer - สถาปัตยกรรมที่ใช้ใน GPT, BERT และโมเดลภาษาขนาดใหญ่"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "บทที่ 4: โมเดลภาษาขนาดใหญ่",
+      "text": "บทที่ 4: โมเดลภาษาขนาดใหญ่",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "paragraph",
+      "prov": [],
+      "orig": "โมเดลภาษาขนาดใหญ่ (Large Language Models หรือ LLM) เป็นโมเดล AI ที่ได้รับการฝึกฝนด้วยข้อมูลข้อความจำนวนมหาศาล ทำให้สามารถเข้าใจและสร้างข้อความภาษามนุษย์ได้อย่างเป็นธรรมชาติ",
+      "text": "โมเดลภาษาขนาดใหญ่ (Large Language Models หรือ LLM) เป็นโมเดล AI ที่ได้รับการฝึกฝนด้วยข้อมูลข้อความจำนวนมหาศาล ทำให้สามารถเข้าใจและสร้างข้อความภาษามนุษย์ได้อย่างเป็นธรรมชาติ"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "paragraph",
+      "prov": [],
+      "orig": "การเตรียมข้อมูลสำหรับสอนโมเดลมีขั้นตอนหลักดังนี้:\n1. การรวบรวมข้อมูล (Data Collection) - เก็บข้อมูลจากหลายแหล่ง\n2. การทำความสะอาดข้อมูล (Data Cleaning) - ลบข้อมูลที่ไม่ต้องการ\n3. การจัดโครงสร้างข้อมูล (Data Structuring) - จัดรูปแบบให้เหมาะกับการเรียนรู้\n4. การตรวจสอบคุณภาพ (Quality Assurance) - ตรวจสอบความถูกต้องของข้อมูล",
+      "text": "การเตรียมข้อมูลสำหรับสอนโมเดลมีขั้นตอนหลักดังนี้:\n1. การรวบรวมข้อมูล (Data Collection) - เก็บข้อมูลจากหลายแหล่ง\n2. การทำความสะอาดข้อมูล (Data Cleaning) - ลบข้อมูลที่ไม่ต้องการ\n3. การจัดโครงสร้างข้อมูล (Data Structuring) - จัดรูปแบบให้เหมาะกับการเรียนรู้\n4. การตรวจสอบคุณภาพ (Quality Assurance) - ตรวจสอบความถูกต้องของข้อมูล"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "paragraph",
+      "prov": [],
+      "orig": "ตัวอย่างโมเดลภาษาขนาดใหญ่ที่สำคัญ:\n- GPT-4 จาก OpenAI\n- Claude จาก Anthropic\n- Gemini จาก Google\n- Llama จาก Meta\n- Qwen จาก Alibaba",
+      "text": "ตัวอย่างโมเดลภาษาขนาดใหญ่ที่สำคัญ:\n- GPT-4 จาก OpenAI\n- Claude จาก Anthropic\n- Gemini จาก Google\n- Llama จาก Meta\n- Qwen จาก Alibaba"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {}
+}
